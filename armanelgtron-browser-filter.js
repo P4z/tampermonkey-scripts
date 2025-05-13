@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         Armagetron Advanced Player Stats Merger
 // @namespace    http://tampermonkey.net/
-// @version      1.5
+// @version      1.6
 // @description  Summarize and filter Arma Player Stats by regex
 // @author       P4@thefarm51.com
+// @updateURL    https://raw.githubusercontent.com/P4z/tampermonkey-scripts/refs/heads/master/armanelgtron-browser-filter.js
 // @downloadURL  https://raw.githubusercontent.com/P4z/tampermonkey-scripts/refs/heads/master/armanelgtron-browser-filter.js
 // @match        https://browser.armanelgtron.tk/playerstats/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=browser.armanelgtron.tk
